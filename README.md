@@ -4,6 +4,12 @@ A screen text translator for Windows: select an on-screen area and the app
 recognizes the text (OCR), translates it to Russian, and copies the result to
 the clipboard.
 
+## Download
+
+Grab the prebuilt `WinCutter.exe` from the [latest release](../../releases/latest).
+It is self-contained (no Visual C++ Redistributable required) — just run it.
+The sections below are for building from source.
+
 ## Features
 
 - **Hotkey + region selection.** A global hotkey is bound to the first available
