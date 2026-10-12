@@ -1,0 +1,32 @@
+# Build output
+build/
+out/
+bin/
+obj/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.user
+
+# CMake
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+
+# Compiled / binaries
+*.exe
+*.obj
+*.ilk
+*.dll
+*.lib
+*.exp
+*.pdb
+
+# Misc
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
